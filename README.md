@@ -4,7 +4,7 @@
 - 🧬 I’m a PhD Student at the George Washington University studying Genomics and Bioinformatics
 - 🏜️ From Arizona
 - 📜 I study the role of human endogenous retroviruses in Systemic Lupus Erythematosus:
-<img src="https://github.com/tyden46/images/blob/main/SLEProjectSummary.png?raw=true" width=216 height=78.146>
+<img src="https://github.com/tyden46/images/blob/main/SLEProjectSummary.png?raw=true" width=540 height=195.365>
 - 📫 How to reach me ...
 
 <!---
