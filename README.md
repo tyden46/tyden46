@@ -1,6 +1,6 @@
 Hi there! I'm Tyson Dawson.
 
-- 🧬 I’m a PhD Student at the George Washington University studying Genomics and Bioinformatics
+- 🧬 I’m a Postdoctoral Researcher at AMPEL BioSolutions
 - 🏜️ From Arizona
 - 👨‍🔬I use RNA-Seq data to explore the role of human endogenous retroviruses in Systemic Lupus Erythematosus:
 <img src="https://github.com/tyden46/images/blob/main/SLEProjectSummary.png?raw=true" width=540 height=195.365>
